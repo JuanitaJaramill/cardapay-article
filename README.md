@@ -18,7 +18,11 @@ The article is written for a general audience and is based on publicly available
 Read the full article here:
 
 [ARTICLE.md](ARTICLE.md)
+[ARTICLE.md](ARTICLE.md)
 
+[Google Docs version] https://docs.google.com/document/d/12sF-85DTqfMOdnJqZOt-znhuvzDSVGCaNR0iwveOpGI/edit?usp=sharing 
+
+## Sources
 ## Sources
 
 The sources used for the research are available here:
