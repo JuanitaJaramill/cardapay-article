@@ -1,0 +1,13 @@
+Bibliography
+Project Catalyst. “CardaPay: Seamless Payments Powered by Cardano”. Proposal submitted to Fund 14, Cardano Open: Developers category. (Project Catalyst)
+Project Catalyst. Public profile of proposer “adis”. (Project Catalyst)
+Cardano Docs. “Native tokens”. Documentation on how native assets work on Cardano. (Cardano Docs)
+Cardano Docs. “Cardano fee structure”. Documentation on how transaction fees are calculated. (Cardano Docs)
+Hydra Head Protocol Documentation. “Protocol overview”. General description of how a Hydra Head works and its lifecycle. (Hydra Family)
+Hydra Head Protocol Documentation. “Welcome”. Information about using Hydra on mainnet and warnings for operators. (Hydra Family)
+Hydra Head Protocol Documentation. “Known issues and limitations”. Limitations involving native tokens, UTxOs, funds, and node configuration. (Hydra Family)
+EMURGO. “EMURGO and Wirex Partner to Launch the First-Ever Cardano Card at the Cardano Summit 2025”. November 11, 2025. (EMURGO)
+Avan-Nomayo, Osato. “Cardano’s business arm partners with Wirex to launch crypto debit card”. Yahoo Finance, November 12, 2025. (Yahoo Finance)
+Wirex. Public information about its cards for digital asset payments and co-branded card programs. (Wirex)
+EMURGO. “EMURGO Unveils SecondFi: The Self-Custodial Neofinance Platform Bridging Everyday Spending with Onchain Yield”. April 2026. (EMURGO)
+Wirex. “SecondFi and Wirex Partner to Launch Self-Custodial Card, Putting Global Users in Full Control of Their Money”. May 2026. (Wirex)
